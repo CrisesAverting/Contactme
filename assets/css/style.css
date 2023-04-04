@@ -1,0 +1,18 @@
+body{
+    background-color: 228 207 193
+}
+/* used for nav header */
+#header {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+/* used for main content */
+#content {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
